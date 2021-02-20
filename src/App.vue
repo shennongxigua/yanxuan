@@ -1,32 +1,79 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+    <!-- App 根组件 -->
+    <!-- 路由占位符 -->
+    <router-view ></router-view>
+    <tab-bar v-if="showTabBar" :list-data='tabBarData' :default-active='index' @select='selectHandle'></tab-bar>
+
   </div>
 </template>
 
-<style>
+<script>
+import TabBar from './components/TabBar/TabBar.vue'
+export default {
+  name: "app",
+  data() {
+    return {
+      showTabBar: false,
+      index: 1,
+      tabBarData: [
+        { index: 1, title: '首页', path: '/Home', iconname: 'iconfont icon-tubiao115',},
+        { index: 2, title: '分类', path: '/CateList', iconname: 'iconfont icon-fenleimokuai',},
+        { index: 3, title: '值得买', path: '/BargainBuy', iconname: 'iconfont icon-xiangce',},
+        { index: 4, title: '购物车', path: '/Cart', iconname: 'iconfont icon-buoumaotubiao40',},
+        { index: 5, title: '个人', path: '/Person', iconname: 'iconfont icon-gerenzhongxin-jibenxinxi',},
+      ]
+    };
+  },
+  methods: {
+    // 判断改页面是否需要显示tabBar 
+    initShowTabBar(){      
+      let flag = false;
+      let path = location.hash.slice(1).toLowerCase();
+      for (let index = 0; index < this.tabBarData.length; index++) {
+        if(this.tabBarData[index].path.toLowerCase() == path){
+          flag = true;
+          break;
+        }
+      }
+      this.showTabBar = flag;
+    },
+    // 选修切换的回调
+    selectHandle(index) {
+      this.index = index;
+      this.setSess();
+    },
+    // 保存barTab的选中状态
+    setSess() {
+      sessionStorage.setItem('bt_active',this.index);
+    },
+    // 获取barTab的选中状态
+    getSess() {
+      let index = sessionStorage.getItem('bt_active');
+      if (index) {
+        this.index = index;
+      }
+    }
+  },
+  watch:{
+    '$route.path': function(){
+      this.initShowTabBar();
+    }
+  },
+  components:{
+    TabBar
+  },
+  created(){
+    this.getSess();
+    this.initShowTabBar();
+  }
+};
+</script>
+
+<style lang="less">
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
+  height: 100%;
+  overflow: scroll;
+  background-color: #eeeeee;
 }
 </style>

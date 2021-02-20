@@ -1,0 +1,2721 @@
+{
+  "data": {
+    "data": {
+      "bigPromotionModule": {
+        "floorList": [
+          {
+            "layout": 1,
+            "cells": [
+              {
+                "subTitleColor": "",
+                "rcmdItem": false,
+                "schemeUrl": "https://act.you.163.com/act/pub/WYWjjqrCaOWX.html",
+                "title": "",
+                "picUrl": "https://yanxuan.nosdn.127.net/f3867b0946af317aab82305328bea2df.gif",
+                "rcmdSort": false,
+                "itemCnt": 0,
+                "itemFrom": 1,
+                "subTitle": "",
+                "titleColor": "",
+                "showPrice": false,
+                "extra": {
+                  "resource": {
+                    "materialContentFrom": 1,
+                    "materialName": "首单全额返-春节版_0125-0226",
+                    "rcmdSort": false,
+                    "taskType": 2,
+                    "itemFrom": 1,
+                    "crmUserGroupName": "首页资源位-新人定投",
+                    "resourcesId": 1,
+                    "materialType": "首页大促模块",
+                    "schemeUrl": "https://act.you.163.com/act/pub/WYWjjqrCaOWX.html",
+                    "crmUserGroupId": "20200222205537323",
+                    "materialId": "54661126",
+                    "taskId": "54674495"
+                  },
+                  "modelType": 1
+                },
+                "popupUrl": "",
+                "leftTime": 0,
+                "itemList": [],
+                "id": "WYWjjqrCaOWX",
+                "targetUrl": "https://act.you.163.com/act/pub/WYWjjqrCaOWX.html"
+              }
+            ],
+            "columnNum": 1,
+            "floorType": 0,
+            "style": 1,
+            "taskId": 54674495,
+            "height": 482
+          },
+          {
+            "layout": 1,
+            "cells": [
+              {
+                "subTitleColor": "",
+                "rcmdItem": false,
+                "schemeUrl": "https://act.you.163.com/act/pub/7aJuKkgDZuhx.html",
+                "title": "",
+                "picUrl": "https://yanxuan.nosdn.127.net/1487bc2cbdcca3217660022b1661a2f5.png",
+                "rcmdSort": false,
+                "itemCnt": 0,
+                "itemFrom": 1,
+                "subTitle": "",
+                "titleColor": "",
+                "showPrice": false,
+                "extra": {
+                  "resource": {
+                    "materialContentFrom": 1,
+                    "materialName": "新人-年终榜限时购_0202-0204",
+                    "rcmdSort": false,
+                    "taskType": 2,
+                    "itemFrom": 1,
+                    "crmUserGroupName": "首页资源位-新人定投",
+                    "resourcesId": 3,
+                    "materialType": "首页大促模块",
+                    "schemeUrl": "https://act.you.163.com/act/pub/7aJuKkgDZuhx.html",
+                    "crmUserGroupId": "20200222205537323",
+                    "materialId": "54661413",
+                    "taskId": "54674519"
+                  },
+                  "modelType": 1
+                },
+                "popupUrl": "",
+                "leftTime": 0,
+                "itemList": [],
+                "id": "7aJuKkgDZuhx",
+                "targetUrl": "https://act.you.163.com/act/pub/7aJuKkgDZuhx.html"
+              },
+              {
+                "subTitleColor": "",
+                "rcmdItem": false,
+                "schemeUrl": "https://act.you.163.com/act/pub/x3o4kGIbPc08.html",
+                "title": "",
+                "picUrl": "https://yanxuan.nosdn.127.net/86aef302cdf5ff83fd932f56d5217e6c.png",
+                "rcmdSort": false,
+                "itemCnt": 0,
+                "itemFrom": 1,
+                "subTitle": "",
+                "titleColor": "",
+                "showPrice": false,
+                "extra": {
+                  "resource": {
+                    "materialContentFrom": 1,
+                    "materialName": "新人-年终榜限时购_0202-0204",
+                    "rcmdSort": false,
+                    "taskType": 2,
+                    "itemFrom": 1,
+                    "crmUserGroupName": "首页资源位-新人定投",
+                    "resourcesId": 3,
+                    "materialType": "首页大促模块",
+                    "schemeUrl": "https://act.you.163.com/act/pub/x3o4kGIbPc08.html",
+                    "crmUserGroupId": "20200222205537323",
+                    "materialId": "54661413",
+                    "taskId": "54674519"
+                  },
+                  "modelType": 1
+                },
+                "popupUrl": "",
+                "leftTime": 0,
+                "itemList": [],
+                "id": "x3o4kGIbPc08",
+                "targetUrl": "https://act.you.163.com/act/pub/x3o4kGIbPc08.html"
+              }
+            ],
+            "columnNum": 2,
+            "floorType": 0,
+            "style": 1,
+            "taskId": 54674519,
+            "height": 279
+          }
+        ]
+      },
+      "tagList": [
+        {
+          "floorPrice": 49.00,
+          "picUrl": "https://yanxuan.nosdn.127.net/133cf0d8a4e10ac8532cad89db0dd794.png",
+          "newOnShelf": false,
+          "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/133cf0d8a4e10ac8532cad89db0dd794.png",
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "MUJI制造商",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 4,
+            "materialType": "制造商id",
+            "crmUserGroupId": "0",
+            "materialId": "45272774",
+            "taskId": "54643334"
+          },
+          "simpleDesc": "严选精选了MUJI制造商和生产原料，\n用几乎零利润的价格，剔除品牌溢价，\n让用户享受原品牌的品质生活。",
+          "name": "MUJI制造商",
+          "appListPicUrl": "https://yanxuan.nosdn.127.net/3743ffe302c32e167fd65179ac109710.jpg",
+          "id": 1001000
+        },
+        {
+          "floorPrice": 39.90,
+          "picUrl": "https://yanxuan.nosdn.127.net/c097be14110f769d58245cdad73e15c3.png",
+          "newOnShelf": false,
+          "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/c097be14110f769d58245cdad73e15c3.png",
+          "simpleDesc": "严选寻访Calvin Klein品牌的制造商，\n深入世界领带第一生产地，设计与品质并重，\n致力于给消费者带来优质典雅的服饰用品。",
+          "name": "CK制造商",
+          "appListPicUrl": "https://yanxuan.nosdn.127.net/61f5523c9988ae6720da4c3c81a37386.jpg",
+          "id": 1026000
+        },
+        {
+          "floorPrice": 249.00,
+          "picUrl": "https://yanxuan.nosdn.127.net/66a23d776f41cba70d00803a5231124b.png",
+          "newOnShelf": false,
+          "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/66a23d776f41cba70d00803a5231124b.png",
+          "simpleDesc": "严选为制作品质与颜值兼具的箱包，\n选定新秀丽、CK、Ricardo等品牌合作的制造商，\n拥有国内先进流水线20余条，实力保障品质。",
+          "name": "新秀丽制造商",
+          "appListPicUrl": "https://yanxuan.nosdn.127.net/42f994296d3393bcb4d54b7db13db5eb.png",
+          "id": 1001037
+        },
+        {
+          "floorPrice": 0.00,
+          "picUrl": "https://yanxuan.nosdn.127.net/c9e14b08576b6a5e2bc3ef46e0e05d08.png",
+          "newOnShelf": false,
+          "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/c9e14b08576b6a5e2bc3ef46e0e05d08.png",
+          "simpleDesc": "严选团队携手国际标准化专业生产厂家，\n厂家长期为Armani、Alexander wang等知名品牌代工，\n专业进口设备，精密质量把控，精于品质居家体验。",
+          "name": "Armani制造商",
+          "appListPicUrl": "https://yanxuan.nosdn.127.net/f19d2e93ee987bbae4ddadefa8d43c06.png",
+          "id": 1033003
+        }
+      ],
+      "policyDescList": [
+        {
+          "icon": "https://yanxuan.nosdn.127.net/a03dd909803b9ac032eba58b7253a2f6.png",
+          "schemeUrl": "",
+          "desc": "网易自营品牌"
+        },
+        {
+          "icon": "https://yanxuan.nosdn.127.net/2d0402ffcd52b3ec3b07422681c42a89.png",
+          "schemeUrl": "",
+          "desc": "30天无忧退货"
+        },
+        {
+          "icon": "https://yanxuan.nosdn.127.net/eb61ee48e8942dbd1784c9ee75ebe955.png",
+          "schemeUrl": "",
+          "desc": "48小时快速退款"
+        }
+      ],
+      "popularItemList": [],
+      "categoryHotSellModule": {
+        "titleTargetUrl": "",
+        "categoryList": [
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/6e8801ea7f634ef271c309e35d3f26d3.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "3995230",
+                  "3995230",
+                  "3842020",
+                  "3842020",
+                  "3998978",
+                  "1318002",
+                  "3996789",
+                  "3996789",
+                  "1652009",
+                  "1652009",
+                  "1604016",
+                  "1604016",
+                  "1535011",
+                  "3468034",
+                  "3468034",
+                  "1116033",
+                  "1116033",
+                  "1357000",
+                  "1667007",
+                  "1667007",
+                  "3526206",
+                  "3526206",
+                  "1154003",
+                  "1154003",
+                  "1154003",
+                  "1154003",
+                  "3991032",
+                  "3991032",
+                  "3991032",
+                  "3991032",
+                  "3996988"
+                ],
+                "categoryName": "热销榜",
+                "categoryId": "0"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 3995230,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/6e8801ea7f634ef271c309e35d3f26d3.png"
+              },
+              {
+                "itemId": 3995230,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/6e8801ea7f634ef271c309e35d3f26d3.png"
+              },
+              {
+                "itemId": 3842020,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d3995146d91bb8d75f39f397da78caa7.png"
+              },
+              {
+                "itemId": 3842020,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d3995146d91bb8d75f39f397da78caa7.png"
+              },
+              {
+                "itemId": 3998978,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/57a51cd274dd473c79be29c53526750e.png"
+              },
+              {
+                "itemId": 1318002,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/cf73b6183045b19cebd05c8bbd64ce85.png"
+              },
+              {
+                "itemId": 3996789,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/dd314eca52786a7749484e75d0f70cfb.png"
+              },
+              {
+                "itemId": 3996789,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/dd314eca52786a7749484e75d0f70cfb.png"
+              },
+              {
+                "itemId": 1652009,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7cf7dcd756e32867d2e574861993c26f.png"
+              },
+              {
+                "itemId": 1652009,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7cf7dcd756e32867d2e574861993c26f.png"
+              },
+              {
+                "itemId": 1604016,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/74662d24f6d217b520178c5a6d031457.png"
+              },
+              {
+                "itemId": 1604016,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/74662d24f6d217b520178c5a6d031457.png"
+              },
+              {
+                "itemId": 1535011,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/22cfd602403ca6a026a439e08e3e3127.png"
+              },
+              {
+                "itemId": 3468034,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/37e12866e806dbcc51754b51cafa4fc5.png"
+              },
+              {
+                "itemId": 3468034,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/37e12866e806dbcc51754b51cafa4fc5.png"
+              },
+              {
+                "itemId": 1116033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/91a264d84fed57f97c48dc107370e941.png"
+              },
+              {
+                "itemId": 1116033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/91a264d84fed57f97c48dc107370e941.png"
+              },
+              {
+                "itemId": 1357000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e04b5eb41b0db471f6991e26752bbcf4.png"
+              },
+              {
+                "itemId": 1667007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8942fc1725f042b39ba1c85cab332631.png"
+              },
+              {
+                "itemId": 1667007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8942fc1725f042b39ba1c85cab332631.png"
+              },
+              {
+                "itemId": 3526206,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0283de6cb201270e0609d8e38b3e8623.png"
+              },
+              {
+                "itemId": 3526206,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0283de6cb201270e0609d8e38b3e8623.png"
+              },
+              {
+                "itemId": 1154003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png"
+              },
+              {
+                "itemId": 1154003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png"
+              },
+              {
+                "itemId": 1154003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png"
+              },
+              {
+                "itemId": 1154003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png"
+              },
+              {
+                "itemId": 3991032,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png"
+              },
+              {
+                "itemId": 3991032,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png"
+              },
+              {
+                "itemId": 3991032,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png"
+              },
+              {
+                "itemId": 3991032,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png"
+              },
+              {
+                "itemId": 3996988,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bb7450ac3c152ea389a20e53fcdb8cd8.png"
+              }
+            ],
+            "categoryName": "热销榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/6e8801ea7f634ef271c309e35d3f26d3.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/e04b5eb41b0db471f6991e26752bbcf4.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "1357000",
+                  "3997162",
+                  "3996139",
+                  "3997664",
+                  "3998442",
+                  "3997695",
+                  "3995124",
+                  "3827043",
+                  "3998510",
+                  "3998827",
+                  "3995401",
+                  "1512002",
+                  "3993161",
+                  "3993817",
+                  "3998112",
+                  "3998289",
+                  "3995961",
+                  "3998822",
+                  "3998106",
+                  "1548001",
+                  "3998438",
+                  "3993820",
+                  "3987409",
+                  "3995000",
+                  "3992039",
+                  "3989275",
+                  "3992701",
+                  "3844003",
+                  "3990745",
+                  "3998895",
+                  "3999252"
+                ],
+                "categoryName": "好评榜",
+                "categoryId": "0"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 1357000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e04b5eb41b0db471f6991e26752bbcf4.png"
+              },
+              {
+                "itemId": 3997162,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7df725f0855d7089ec52aef0b989c9e7.png"
+              },
+              {
+                "itemId": 3996139,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0c8ac46a6836e04f7e7f38b5f7ef982c.png"
+              },
+              {
+                "itemId": 3997664,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/cfec2b56365d528ad1b07ca4f093b31a.png"
+              },
+              {
+                "itemId": 3998442,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/85dbf3bc46fcdebd72234219607e3a74.png"
+              },
+              {
+                "itemId": 3997695,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2f1673c530bf3511a5ed01b9d45c15f3.png"
+              },
+              {
+                "itemId": 3995124,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/4a613df5b7d50b8afbd369ef0c74906b.png"
+              },
+              {
+                "itemId": 3827043,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2717465a1a463066dc701443a0bf4852.png"
+              },
+              {
+                "itemId": 3998510,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c109e4afef85dc71512e881234977164.png"
+              },
+              {
+                "itemId": 3998827,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3592c031131d42744e3feb51a6ef3843.png"
+              },
+              {
+                "itemId": 3995401,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/db10ab5bcefae3a8d01d9ec36770095a.png"
+              },
+              {
+                "itemId": 1512002,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/81af0c4801889a41ead9b72fe1450299.png"
+              },
+              {
+                "itemId": 3993161,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2916a77d7bdab3e965e15adcc1fd0eab.png"
+              },
+              {
+                "itemId": 3993817,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ac0c99a7494504ef506de1bb03bbacc7.png"
+              },
+              {
+                "itemId": 3998112,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/f041ce144d8d1ecfa5b0ea7a0777bac6.png"
+              },
+              {
+                "itemId": 3998289,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1e89bd37ceca9da36031b32fbe472b14.png"
+              },
+              {
+                "itemId": 3995961,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2ec46f8fdcea0b044bb9cc94849759fe.png"
+              },
+              {
+                "itemId": 3998822,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a7d02d3dbade105567661e960a22db41.png"
+              },
+              {
+                "itemId": 3998106,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ab8cbe453661e8d41ecb17f1a8c48537.png"
+              },
+              {
+                "itemId": 1548001,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bb9025c24057dfb89403055ac5b9f85c.png"
+              },
+              {
+                "itemId": 3998438,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8f5900efea880d532cff63891a80d399.png"
+              },
+              {
+                "itemId": 3993820,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3334651215305fdf04d7f1da2b0a1a0b.png"
+              },
+              {
+                "itemId": 3987409,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d2ae3477ea52df8e34e74ab7290a1074.png"
+              },
+              {
+                "itemId": 3995000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/756bfc9ff9398d2f52d01cd482339def.png"
+              },
+              {
+                "itemId": 3992039,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1c4747bf3793a28d29ea9e9bf8d60879.png"
+              },
+              {
+                "itemId": 3989275,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/95ac4d89644b7645bc3a900737d7d9a8.png"
+              },
+              {
+                "itemId": 3992701,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/843c40cb2ba4a177dc6f582ab6c60bd1.png"
+              },
+              {
+                "itemId": 3844003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/50dc4c99f3429ca6e2d4ef99d9383b5b.png"
+              },
+              {
+                "itemId": 3990745,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8b57c506f556dff5a3828b217234c016.png"
+              },
+              {
+                "itemId": 3998895,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bb05dd35e0384f145807ebe78c5b11e4.png"
+              },
+              {
+                "itemId": 3999252,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c4a1a90a12b669e34bdfc7893d783fb6.png"
+              }
+            ],
+            "categoryName": "好评榜",
+            "targetUrl": "https://m.you.163.com/item/praiseRank",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/e04b5eb41b0db471f6991e26752bbcf4.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/dd314eca52786a7749484e75d0f70cfb.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "3995230",
+                  "3996789",
+                  "1652009",
+                  "1535011",
+                  "3468034",
+                  "1667007",
+                  "3526206",
+                  "3991032",
+                  "1572030",
+                  "3466003",
+                  "3986679",
+                  "3997162",
+                  "3412045",
+                  "1651009",
+                  "3383008",
+                  "3996139",
+                  "1535010",
+                  "3988969",
+                  "1156119",
+                  "3446026",
+                  "1447046",
+                  "1425007",
+                  "3388017",
+                  "3393026",
+                  "1468014",
+                  "3995885",
+                  "3990716"
+                ],
+                "categoryName": "美食酒水",
+                "categoryId": "1005002"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 3995230,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/6e8801ea7f634ef271c309e35d3f26d3.png"
+              },
+              {
+                "itemId": 3996789,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/dd314eca52786a7749484e75d0f70cfb.png"
+              },
+              {
+                "itemId": 1652009,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7cf7dcd756e32867d2e574861993c26f.png"
+              },
+              {
+                "itemId": 1535011,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/22cfd602403ca6a026a439e08e3e3127.png"
+              },
+              {
+                "itemId": 3468034,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/37e12866e806dbcc51754b51cafa4fc5.png"
+              },
+              {
+                "itemId": 1667007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8942fc1725f042b39ba1c85cab332631.png"
+              },
+              {
+                "itemId": 3526206,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0283de6cb201270e0609d8e38b3e8623.png"
+              },
+              {
+                "itemId": 3991032,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png"
+              },
+              {
+                "itemId": 1572030,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/dc1f5db38912673f53f1d6f1399b316b.png"
+              },
+              {
+                "itemId": 3466003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/acd6cb5fadff1ae77cda9b54c964045f.png"
+              },
+              {
+                "itemId": 3986679,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3a56562e4a20c2b3c2f024a0582e5325.png"
+              },
+              {
+                "itemId": 3997162,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7df725f0855d7089ec52aef0b989c9e7.png"
+              },
+              {
+                "itemId": 3412045,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/06765b29672299b3d7f627a459f00fdc.png"
+              },
+              {
+                "itemId": 1651009,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8d3d1d4d9ea6dfbe1ea16fbc884cd698.png"
+              },
+              {
+                "itemId": 3383008,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/488a81259dec9371232b37d133e1bbb8.png"
+              },
+              {
+                "itemId": 3996139,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0c8ac46a6836e04f7e7f38b5f7ef982c.png"
+              },
+              {
+                "itemId": 1535010,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/02b395ef8e9c2c2f4e8b5a530c24fafa.png"
+              },
+              {
+                "itemId": 3988969,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a048994addae19c2b17f5f24968cbb1c.png"
+              },
+              {
+                "itemId": 1156119,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/994cdbe0418043aacf39db78fe826147.png"
+              },
+              {
+                "itemId": 3446026,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/632a76d85e412cda544667f0a116bac1.png"
+              },
+              {
+                "itemId": 1447046,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/da2ebddce902bdc652260a1789afc13a.png"
+              },
+              {
+                "itemId": 1425007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3bf67610f55e250167edd69c3c9d2f11.png"
+              },
+              {
+                "itemId": 3388017,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7554b7cac74445298e5234596a92348a.png"
+              },
+              {
+                "itemId": 3393026,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ac4bade3609c8f9dba5de6ca5eeb9e8b.png"
+              },
+              {
+                "itemId": 1468014,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8ff83d4079c2dbf64db5ef984fbbaa2b.png"
+              },
+              {
+                "itemId": 3995885,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c40842640f6a1a2509960c2029aca1b8.png"
+              },
+              {
+                "itemId": 3990716,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e2256d629a1d6aa71b00e189833bd6d0.png"
+              }
+            ],
+            "categoryName": "美食酒水榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1005002",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/dd314eca52786a7749484e75d0f70cfb.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/cf73b6183045b19cebd05c8bbd64ce85.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "1318002",
+                  "1116033",
+                  "3997604",
+                  "3998331",
+                  "1149000",
+                  "3999839",
+                  "1110003",
+                  "3992597",
+                  "3988957",
+                  "3990946",
+                  "1108008",
+                  "3408074",
+                  "3413004",
+                  "3425018",
+                  "3454022",
+                  "1621025",
+                  "3400004",
+                  "1127003",
+                  "1435024",
+                  "3994613",
+                  "1199006",
+                  "3827043",
+                  "3407081",
+                  "1636009",
+                  "1006007",
+                  "1327018",
+                  "3428015",
+                  "1545016",
+                  "3822058",
+                  "1625008"
+                ],
+                "categoryName": "居家生活",
+                "categoryId": "1005000"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 1318002,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/cf73b6183045b19cebd05c8bbd64ce85.png"
+              },
+              {
+                "itemId": 1116033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/91a264d84fed57f97c48dc107370e941.png"
+              },
+              {
+                "itemId": 3997604,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8845c9c6f77f2f71233475d92128dccf.png"
+              },
+              {
+                "itemId": 3998331,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e2da1f474dbee33367b03e9c24f5f7d1.png"
+              },
+              {
+                "itemId": 1149000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/332255bdd807bc332107d68a87e72f1f.png"
+              },
+              {
+                "itemId": 3999839,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7b3c9bd4c8487825c3eb76053245ad85.png"
+              },
+              {
+                "itemId": 1110003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/9a33f08a3b0f5c06fdf4c586d51b2f7c.png"
+              },
+              {
+                "itemId": 3992597,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ff6bdf2c3811fb0ae4cd24845dd8464d.png"
+              },
+              {
+                "itemId": 3988957,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fd1d04502eb2dc9382ece5245802ef48.png"
+              },
+              {
+                "itemId": 3990946,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b2b4d71957cd445a4fae563e6d1dbcb4.png"
+              },
+              {
+                "itemId": 1108008,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0fecbab07b9a3522015958ba8f31e27a.png"
+              },
+              {
+                "itemId": 3408074,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3334651215305fdf04d7f1da2b0a1a0b.png"
+              },
+              {
+                "itemId": 3413004,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fd808031a37d0eeabcefb81d3244f18d.png"
+              },
+              {
+                "itemId": 3425018,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2f87af4113e8ca311a5467ad5906a775.png"
+              },
+              {
+                "itemId": 3454022,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1e1cb6d55b25044cef81cf9c328f5f03.png"
+              },
+              {
+                "itemId": 1621025,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b74d5c3b31398f145b30bf761d72affc.png"
+              },
+              {
+                "itemId": 3400004,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7b70df89c5833209bbc290c61d65688c.png"
+              },
+              {
+                "itemId": 1127003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/84454f5de65796c78a5ef9f3d6b7d843.png"
+              },
+              {
+                "itemId": 1435024,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0bd018282b7ba6db74b21f8c0daed220.png"
+              },
+              {
+                "itemId": 3994613,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ccc92467e92a5a21b6eabfeeb4c19acf.png"
+              },
+              {
+                "itemId": 1199006,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/953c5a0ab6660507ee3bf3ce3e46936c.png"
+              },
+              {
+                "itemId": 3827043,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2717465a1a463066dc701443a0bf4852.png"
+              },
+              {
+                "itemId": 3407081,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ac0c99a7494504ef506de1bb03bbacc7.png"
+              },
+              {
+                "itemId": 1636009,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bf8ab674674ec9207bb94a6af4ccd87a.png"
+              },
+              {
+                "itemId": 1006007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7581b514d30361b864aa19aad656ddbf.png"
+              },
+              {
+                "itemId": 1327018,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e9730c230d3df388ce6c32e037642c2d.png"
+              },
+              {
+                "itemId": 3428015,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b1f7d3096d12d0e4f9e0bbc7232e9295.png"
+              },
+              {
+                "itemId": 1545016,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/6cdb3da46a4b95b36dea89d6d47d3bd9.png"
+              },
+              {
+                "itemId": 3822058,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e211049a39198e2ee4d3ea62d0d099b1.png"
+              },
+              {
+                "itemId": 1625008,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c89c4c86c6cb31805bd537d8c772a231.png"
+              }
+            ],
+            "categoryName": "居家生活榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1005000",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/cf73b6183045b19cebd05c8bbd64ce85.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/8144af784bc68f47d03dcf31d3200c56.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "4000882",
+                  "3993489",
+                  "3993624",
+                  "3992121",
+                  "3991645",
+                  "3994142",
+                  "3989106",
+                  "3995116",
+                  "1085019",
+                  "3550325",
+                  "3993962",
+                  "3991681",
+                  "3991488",
+                  "3995157",
+                  "3551305",
+                  "3997967",
+                  "3439006",
+                  "3986883",
+                  "3993089",
+                  "3993615",
+                  "1579024",
+                  "3992591",
+                  "3987908",
+                  "3992047",
+                  "3998827",
+                  "1021020"
+                ],
+                "categoryName": "服饰鞋包",
+                "categoryId": "1010000"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 4000882,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8144af784bc68f47d03dcf31d3200c56.png"
+              },
+              {
+                "itemId": 3993489,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/763a8c2239062cf3d6d8fec8b882c421.png"
+              },
+              {
+                "itemId": 3993624,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2a3d5179df95e6c5ba6472704a2b0921.png"
+              },
+              {
+                "itemId": 3992121,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/50987f5b3a71dcd93372557250cbba06.png"
+              },
+              {
+                "itemId": 3991645,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/df223444255dc0eb585f0ddf67e95f1f.png"
+              },
+              {
+                "itemId": 3994142,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ee9f42bce2832771672e1ece6cc43bfc.png"
+              },
+              {
+                "itemId": 3989106,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fee21ece834e9c2706e53d86e65b8abb.png"
+              },
+              {
+                "itemId": 3995116,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/926efd8d5687869228dd092d7c4b7a39.png"
+              },
+              {
+                "itemId": 1085019,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c27abf14fa51f922122d9c81d7e68bd8.png"
+              },
+              {
+                "itemId": 3550325,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d3d966a23f335df1bb02cdd17c63d97e.png"
+              },
+              {
+                "itemId": 3993962,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/61b7557f6da77abcc110b328f58bafe4.png"
+              },
+              {
+                "itemId": 3991681,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/5fe63041871b2e4f4ae14d6aa52af604.png"
+              },
+              {
+                "itemId": 3991488,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/5e739c5ae148f8a3a6768f07da19edd3.png"
+              },
+              {
+                "itemId": 3995157,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7b23df04d123deff8a13dffcc986411b.png"
+              },
+              {
+                "itemId": 3551305,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/957701289a9764267abd18e766d02253.png"
+              },
+              {
+                "itemId": 3997967,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2b457ef447e8bdb1d0cb04727b29edba.png"
+              },
+              {
+                "itemId": 3439006,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/073f16bf0c7ad8634c3abb7636e063c2.png"
+              },
+              {
+                "itemId": 3986883,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/76c5dde66e87344651172e7094e50dae.png"
+              },
+              {
+                "itemId": 3993089,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8be4acbe7e90ff47847764be1ea168ed.png"
+              },
+              {
+                "itemId": 3993615,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0f3d2ee932a80837aa537f8fe602300c.png"
+              },
+              {
+                "itemId": 1579024,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fc6cc915cd1908496330bc6565e02a95.png"
+              },
+              {
+                "itemId": 3992591,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/92b32af3a69df6f263a9e40a6fd44140.png"
+              },
+              {
+                "itemId": 3987908,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/81febf3180ef5cf9e2d621aa34cdf259.png"
+              },
+              {
+                "itemId": 3992047,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fff906909ce1726a873640ac92b5aacb.png"
+              },
+              {
+                "itemId": 3998827,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3592c031131d42744e3feb51a6ef3843.png"
+              },
+              {
+                "itemId": 1021020,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fde00441f1d0c60c2a06426144de8495.png"
+              }
+            ],
+            "categoryName": "服饰鞋包榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1010000",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/8144af784bc68f47d03dcf31d3200c56.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/d3995146d91bb8d75f39f397da78caa7.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "3842020",
+                  "3998978",
+                  "1154003",
+                  "3996988",
+                  "3999301",
+                  "3998331",
+                  "3997730",
+                  "3827023",
+                  "1685001",
+                  "1127007",
+                  "3999925",
+                  "3990582",
+                  "4000363",
+                  "1624001",
+                  "3988124",
+                  "3990305",
+                  "1497001",
+                  "3996759",
+                  "3988278",
+                  "3995439",
+                  "3536063",
+                  "3996763",
+                  "3992685",
+                  "3518169",
+                  "3994613",
+                  "3995124",
+                  "3408014"
+                ],
+                "categoryName": "数码家电",
+                "categoryId": "1043000"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 3842020,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d3995146d91bb8d75f39f397da78caa7.png"
+              },
+              {
+                "itemId": 3998978,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/57a51cd274dd473c79be29c53526750e.png"
+              },
+              {
+                "itemId": 1154003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png"
+              },
+              {
+                "itemId": 3996988,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bb7450ac3c152ea389a20e53fcdb8cd8.png"
+              },
+              {
+                "itemId": 3999301,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/453ec5ad8b57a88243e5804d9abc62cb.png"
+              },
+              {
+                "itemId": 3998331,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e2da1f474dbee33367b03e9c24f5f7d1.png"
+              },
+              {
+                "itemId": 3997730,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bcbb4b46320121ab646ac37550ac540a.png"
+              },
+              {
+                "itemId": 3827023,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a517938254c7d2f480827debf355127a.png"
+              },
+              {
+                "itemId": 1685001,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c7feab536c0d0fa95ed12d987e9bd667.png"
+              },
+              {
+                "itemId": 1127007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ecef155d279e1a485b4f31f87daa3698.png"
+              },
+              {
+                "itemId": 3999925,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/929f90da9cac02afe0dc6646ea50ff3b.png"
+              },
+              {
+                "itemId": 3990582,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e604f890043afb46d72b45208c830097.png"
+              },
+              {
+                "itemId": 4000363,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/9015621221c36ca995b3fbbf936e09f1.png"
+              },
+              {
+                "itemId": 1624001,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/51348ec7731f5ed5c4bb9e0bed88717c.png"
+              },
+              {
+                "itemId": 3988124,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/15f7d8d9535f72d91d8a9230432f784b.png"
+              },
+              {
+                "itemId": 3990305,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e3ab2e40673d6469a2886981f6c4e811.png"
+              },
+              {
+                "itemId": 1497001,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7c850ef50fc408c4eab4d7abdb920da3.png"
+              },
+              {
+                "itemId": 3996759,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/5fe21efbe2a3e552b4daa7e5f4ab54d4.png"
+              },
+              {
+                "itemId": 3988278,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2815972526c707fe51fcc587c435e88c.png"
+              },
+              {
+                "itemId": 3995439,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/58f7c2d05baf82a456e2ced7df319b40.png"
+              },
+              {
+                "itemId": 3536063,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/09c285a52af2f544d380e17d16545b83.png"
+              },
+              {
+                "itemId": 3996763,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c8d5e7114bcb9a198ff1b31adf17b2fd.png"
+              },
+              {
+                "itemId": 3992685,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/53cc1ff8dfa3747c5dbb203c8fa63d54.png"
+              },
+              {
+                "itemId": 3518169,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/f820d3a7417bbaf1bedf47fec4ed9d0b.png"
+              },
+              {
+                "itemId": 3994613,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ccc92467e92a5a21b6eabfeeb4c19acf.png"
+              },
+              {
+                "itemId": 3995124,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/4a613df5b7d50b8afbd369ef0c74906b.png"
+              },
+              {
+                "itemId": 3408014,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/54b3d0050e3d3f6005bb26d2d38e289f.png"
+              }
+            ],
+            "categoryName": "数码家电榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1043000",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/d3995146d91bb8d75f39f397da78caa7.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "3991032",
+                  "3996988",
+                  "3988969",
+                  "3999301",
+                  "1149000",
+                  "3997730",
+                  "3988957",
+                  "4000363",
+                  "3987578",
+                  "3986552",
+                  "3989252",
+                  "3992478",
+                  "3994142",
+                  "1667022",
+                  "1621025",
+                  "1675046",
+                  "3814045",
+                  "3997535",
+                  "3860000",
+                  "3993962",
+                  "3814050",
+                  "4001054",
+                  "3996992",
+                  "4000359",
+                  "3992477",
+                  "3992947",
+                  "1674003",
+                  "3986831"
+                ],
+                "categoryName": "严选全球",
+                "categoryId": "1019000"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 3991032,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png"
+              },
+              {
+                "itemId": 3996988,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bb7450ac3c152ea389a20e53fcdb8cd8.png"
+              },
+              {
+                "itemId": 3988969,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a048994addae19c2b17f5f24968cbb1c.png"
+              },
+              {
+                "itemId": 3999301,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/453ec5ad8b57a88243e5804d9abc62cb.png"
+              },
+              {
+                "itemId": 1149000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/332255bdd807bc332107d68a87e72f1f.png"
+              },
+              {
+                "itemId": 3997730,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bcbb4b46320121ab646ac37550ac540a.png"
+              },
+              {
+                "itemId": 3988957,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fd1d04502eb2dc9382ece5245802ef48.png"
+              },
+              {
+                "itemId": 4000363,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/9015621221c36ca995b3fbbf936e09f1.png"
+              },
+              {
+                "itemId": 3987578,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/73dd984e36a07fd7e42e6bab8de41345.png"
+              },
+              {
+                "itemId": 3986552,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/364bb4175dd73987f11dc1a701e28a2f.png"
+              },
+              {
+                "itemId": 3989252,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/71447be5f3571091bb31c33bcb631862.png"
+              },
+              {
+                "itemId": 3992478,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8b78533762aeeef44b2bf32ece1cd4d2.png"
+              },
+              {
+                "itemId": 3994142,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ee9f42bce2832771672e1ece6cc43bfc.png"
+              },
+              {
+                "itemId": 1667022,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/214fea8a9bbd3e4e4ec0f1572e1b6efb.png"
+              },
+              {
+                "itemId": 1621025,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b74d5c3b31398f145b30bf761d72affc.png"
+              },
+              {
+                "itemId": 1675046,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bfd56d503c74ba03b87568d49a1a55ae.png"
+              },
+              {
+                "itemId": 3814045,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a7e679e88af02cbce8b3cb3cf36aa691.png"
+              },
+              {
+                "itemId": 3997535,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/aca906330b7613a142bf85f149b28e60.png"
+              },
+              {
+                "itemId": 3860000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c0a002d12080fc2858ccc10b3b78bacc.png"
+              },
+              {
+                "itemId": 3993962,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/61b7557f6da77abcc110b328f58bafe4.png"
+              },
+              {
+                "itemId": 3814050,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fb739a67eb975f2edfaab4053fa002d4.png"
+              },
+              {
+                "itemId": 4001054,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2fd7bed59e4cf23560dcdfe542d21f68.png"
+              },
+              {
+                "itemId": 3996992,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/56fdd0018014b3823fd503c16faaff55.png"
+              },
+              {
+                "itemId": 4000359,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/48cb75c779ac8e98aa32cf24bd8ef2a5.png"
+              },
+              {
+                "itemId": 3992477,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8ddf1f252f1f0184bd589448933b7b62.png"
+              },
+              {
+                "itemId": 3992947,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a6eeb35b7843e1c3c0e33858ba86ef7f.png"
+              },
+              {
+                "itemId": 1674003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e30375922143f7fad7465fb56bc5acd6.png"
+              },
+              {
+                "itemId": 3986831,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/81a6de6ada191a28477769ab2dbb03fd.png"
+              }
+            ],
+            "categoryName": "严选全球榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1019000",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/238eee02ce11fffc3fc58f54b5b101c6.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "1154003",
+                  "3996988",
+                  "3434003",
+                  "1127007",
+                  "3986552",
+                  "3988124",
+                  "3988278",
+                  "3857027",
+                  "3402020",
+                  "3536063",
+                  "3440221",
+                  "3992685",
+                  "3987789",
+                  "3420060",
+                  "3465038",
+                  "3997535",
+                  "3408014",
+                  "3444027",
+                  "3996201",
+                  "3505026",
+                  "3527154",
+                  "3811030",
+                  "3988383",
+                  "1006058",
+                  "4000359",
+                  "3826011",
+                  "3987877",
+                  "1687019",
+                  "3885041",
+                  "3989406"
+                ],
+                "categoryName": "个护清洁",
+                "categoryId": "1013001"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 1154003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png"
+              },
+              {
+                "itemId": 3996988,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bb7450ac3c152ea389a20e53fcdb8cd8.png"
+              },
+              {
+                "itemId": 3434003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c341480988f41599cb063ec69bbe501d.png"
+              },
+              {
+                "itemId": 1127007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ecef155d279e1a485b4f31f87daa3698.png"
+              },
+              {
+                "itemId": 3986552,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/364bb4175dd73987f11dc1a701e28a2f.png"
+              },
+              {
+                "itemId": 3988124,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/15f7d8d9535f72d91d8a9230432f784b.png"
+              },
+              {
+                "itemId": 3988278,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2815972526c707fe51fcc587c435e88c.png"
+              },
+              {
+                "itemId": 3857027,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d676b2fa798ae1f81809e1a8a8c9f6ef.png"
+              },
+              {
+                "itemId": 3402020,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2c0147161faaa160cf10b6770f1e290d.png"
+              },
+              {
+                "itemId": 3536063,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/09c285a52af2f544d380e17d16545b83.png"
+              },
+              {
+                "itemId": 3440221,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/30cac9e78ffe7e3f1e247793d107a338.png"
+              },
+              {
+                "itemId": 3992685,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/53cc1ff8dfa3747c5dbb203c8fa63d54.png"
+              },
+              {
+                "itemId": 3987789,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ec940d9e49168f8a6a8793a65821cc3d.png"
+              },
+              {
+                "itemId": 3420060,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ba9dda05b12dfd4fe0f67a7c9ed409f4.png"
+              },
+              {
+                "itemId": 3465038,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/5670c74ec20eaa75e9a1b6b02328e03c.png"
+              },
+              {
+                "itemId": 3997535,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/aca906330b7613a142bf85f149b28e60.png"
+              },
+              {
+                "itemId": 3408014,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/54b3d0050e3d3f6005bb26d2d38e289f.png"
+              },
+              {
+                "itemId": 3444027,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1e02d35d16da8c86046a6f89316e93fb.png"
+              },
+              {
+                "itemId": 3996201,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d58563a0f6c2cbcb04ffe045c9249bd5.png"
+              },
+              {
+                "itemId": 3505026,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b389beb64f7c07343ef75953926cfe0a.png"
+              },
+              {
+                "itemId": 3527154,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/02dd07dbee4575a71afa30fd680a6ec7.png"
+              },
+              {
+                "itemId": 3811030,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1a200be9152bfc96d99d64587750fc93.png"
+              },
+              {
+                "itemId": 3988383,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/dc49fd254c30d7d64d93214ed4319980.png"
+              },
+              {
+                "itemId": 1006058,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a8f3869946d7672ae1b59c4cef18af10.png"
+              },
+              {
+                "itemId": 4000359,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/48cb75c779ac8e98aa32cf24bd8ef2a5.png"
+              },
+              {
+                "itemId": 3826011,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/901be61b95ed8dfc89947125cbdc603b.png"
+              },
+              {
+                "itemId": 3987877,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/4c48c9512876353d4e9479cf6a84f635.png"
+              },
+              {
+                "itemId": 1687019,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ed364038c91e0dd6cdd2178a4324f223.png"
+              },
+              {
+                "itemId": 3885041,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3c201fe2257a7b3b8951e66bf3b1430f.png"
+              },
+              {
+                "itemId": 3989406,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/9663e599f23444d32ae46ca0b44f2f2e.png"
+              }
+            ],
+            "categoryName": "个护清洁榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1013001",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/7a0e064c1fd99b5eb16608bca9b7aa0d.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/74662d24f6d217b520178c5a6d031457.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "1604016",
+                  "1606002",
+                  "1134066",
+                  "3998442",
+                  "1135047",
+                  "3992613",
+                  "3995547",
+                  "3996253",
+                  "1572013",
+                  "1512000",
+                  "3998438",
+                  "1559006",
+                  "3995035",
+                  "3987375",
+                  "1116034",
+                  "3997584",
+                  "3993434",
+                  "3988733",
+                  "1506021",
+                  "1295000",
+                  "3993378",
+                  "1296000",
+                  "3844033",
+                  "1686131",
+                  "3988932",
+                  "1542005",
+                  "3997658",
+                  "3992605",
+                  "3994471"
+                ],
+                "categoryName": "母婴亲子",
+                "categoryId": "1011000"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 1604016,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/74662d24f6d217b520178c5a6d031457.png"
+              },
+              {
+                "itemId": 1606002,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/5afebfc81bec67032e54beb4c6aefa6d.png"
+              },
+              {
+                "itemId": 1134066,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1b8e4a484e128c28a050cd2bc0c64396.png"
+              },
+              {
+                "itemId": 3998442,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/85dbf3bc46fcdebd72234219607e3a74.png"
+              },
+              {
+                "itemId": 1135047,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ce3944d2699d6add8d482527f92fa9f7.png"
+              },
+              {
+                "itemId": 3992613,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/f568b81e67ed94954c5177fa7aab3270.png"
+              },
+              {
+                "itemId": 3995547,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3d687218179b57b3b509d6ffcfdd3b0f.png"
+              },
+              {
+                "itemId": 3996253,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/53824e3deffc29c3a819e717b1109687.png"
+              },
+              {
+                "itemId": 1572013,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7e4db021bc68c9af8eddecdb1aa96c36.png"
+              },
+              {
+                "itemId": 1512000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/4a3e47e02c2e4c228f244d533ee61fb8.png"
+              },
+              {
+                "itemId": 3998438,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8f5900efea880d532cff63891a80d399.png"
+              },
+              {
+                "itemId": 1559006,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e02616dff3d96b1706911e35e72344b2.png"
+              },
+              {
+                "itemId": 3995035,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2ff9071c1d5a0b32015eed04ab7cae93.png"
+              },
+              {
+                "itemId": 3987375,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/32671d8e0ef8e38a128acfe038e3a545.png"
+              },
+              {
+                "itemId": 1116034,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/cfd2ab8d2ea2188ff422c5c91c1d920c.png"
+              },
+              {
+                "itemId": 3997584,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c065aa43c1b5f18d71702e0c98939f9c.png"
+              },
+              {
+                "itemId": 3993434,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/706537815946404510fd46700f3f2254.png"
+              },
+              {
+                "itemId": 3988733,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/24edd599292ca2fde910730d0fc7dce5.png"
+              },
+              {
+                "itemId": 1506021,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/98f00e8b15f30c11e3e64f1da7fba591.png"
+              },
+              {
+                "itemId": 1295000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/f7794c7868859b3bd1889116bf0a39e0.png"
+              },
+              {
+                "itemId": 3993378,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/94ac1da04881e6aaf39d2a9234187d83.png"
+              },
+              {
+                "itemId": 1296000,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0702f6b4e71de5704ca894b54517a6a2.png"
+              },
+              {
+                "itemId": 3844033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/3ddebc9df09f6b10b9b301d1edf2c303.png"
+              },
+              {
+                "itemId": 1686131,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/4b051d129f25cbb48989b7c50f5b8f2c.png"
+              },
+              {
+                "itemId": 3988932,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/76e6f7db9b8af296bc61f07446a5c7f1.png"
+              },
+              {
+                "itemId": 1542005,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d044967f76d92def0fb74ce862c10e73.png"
+              },
+              {
+                "itemId": 3997658,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/63c43914d85871601a69fa2bf9956150.png"
+              },
+              {
+                "itemId": 3992605,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/45a101456f0c7f0e1c8f22f548ad38ff.png"
+              },
+              {
+                "itemId": 3994471,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a085a5c50478e4e5e99120c116bef391.png"
+              }
+            ],
+            "categoryName": "母婴亲子榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1011000",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/74662d24f6d217b520178c5a6d031457.png"
+          },
+          {
+            "picUrl": "https://yanxuan-item.nosdn.127.net/2a3d5179df95e6c5ba6472704a2b0921.png",
+            "extra": {
+              "operationResource": {
+                "itemIdList": [
+                  "3993624",
+                  "3989106",
+                  "1085019",
+                  "3995157",
+                  "3988462",
+                  "3995401",
+                  "1306026",
+                  "3995021",
+                  "3458061",
+                  "1306027",
+                  "3815050",
+                  "3548013",
+                  "3990745",
+                  "3471012",
+                  "1687060",
+                  "3406006",
+                  "1092026",
+                  "3441208",
+                  "3990296",
+                  "3459033",
+                  "3989869",
+                  "1667019",
+                  "3992230",
+                  "1667018",
+                  "1113019",
+                  "3827031",
+                  "3989105",
+                  "3507205",
+                  "3490048"
+                ],
+                "categoryName": "运动旅行",
+                "categoryId": "109243029"
+              },
+              "modelType": 5
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 3993624,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2a3d5179df95e6c5ba6472704a2b0921.png"
+              },
+              {
+                "itemId": 3989106,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fee21ece834e9c2706e53d86e65b8abb.png"
+              },
+              {
+                "itemId": 1085019,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/c27abf14fa51f922122d9c81d7e68bd8.png"
+              },
+              {
+                "itemId": 3995157,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7b23df04d123deff8a13dffcc986411b.png"
+              },
+              {
+                "itemId": 3988462,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/797a29814fea9f623efb204d96fd3e3e.png"
+              },
+              {
+                "itemId": 3995401,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/db10ab5bcefae3a8d01d9ec36770095a.png"
+              },
+              {
+                "itemId": 1306026,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/63967eb40b0af505f1fd066442952bab.png"
+              },
+              {
+                "itemId": 3995021,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/617cb63ad8a7eb39e8e399fb512cce2e.png"
+              },
+              {
+                "itemId": 3458061,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1d257c1dcfe98574ab1402d42f45045e.png"
+              },
+              {
+                "itemId": 1306027,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/271eb0b3d94e80579afdeb614cc240ad.png"
+              },
+              {
+                "itemId": 3815050,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/9c77ddefae8fa0f16d8a43bf0aa1513d.png"
+              },
+              {
+                "itemId": 3548013,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1c8b963ff3cbaf6bb9c2704d4d99978c.png"
+              },
+              {
+                "itemId": 3990745,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8b57c506f556dff5a3828b217234c016.png"
+              },
+              {
+                "itemId": 3471012,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fe544cee59cc95a9159a722b6be01faa.png"
+              },
+              {
+                "itemId": 1687060,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7594073352d186db8219d3f1195c4574.png"
+              },
+              {
+                "itemId": 3406006,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/9e5ae955b287d65e2a7ba5b868b81f2b.png"
+              },
+              {
+                "itemId": 1092026,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/58fdbceab428754d9b8e8b3019d84c4e.png"
+              },
+              {
+                "itemId": 3441208,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/4660884db2bd3092f6d3fcd7d374aaa3.png"
+              },
+              {
+                "itemId": 3990296,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/039db579f86be77f2656a8504cb06daf.png"
+              },
+              {
+                "itemId": 3459033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/d81ffb9992a08eb52ed31d919209cffa.png"
+              },
+              {
+                "itemId": 3989869,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b8b5e80fb57b7488c153fd2875670cf3.png"
+              },
+              {
+                "itemId": 1667019,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0a9444e377ebee411cab68093207c7f5.png"
+              },
+              {
+                "itemId": 3992230,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ee042300d48d32f904d2f0b398e1e6ff.png"
+              },
+              {
+                "itemId": 1667018,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b47e916d628ff9a755ba4cbaa61047c4.png"
+              },
+              {
+                "itemId": 1113019,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/89307ce0d3406446faddf61039752cda.png"
+              },
+              {
+                "itemId": 3827031,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/60bc1d0f91370c3541aa46669f769e32.png"
+              },
+              {
+                "itemId": 3989105,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/63f776e2a0ac27dec55e064e5b1a243b.png"
+              },
+              {
+                "itemId": 3507205,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/f3f18a4fe9e7905cd7c9ff28e42ff0c2.png"
+              },
+              {
+                "itemId": 3490048,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/569355c07160102e854b3c945960bd19.png"
+              }
+            ],
+            "categoryName": "运动旅行榜",
+            "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=109243029",
+            "showPicUrl": "https://yanxuan-item.nosdn.127.net/2a3d5179df95e6c5ba6472704a2b0921.png"
+          }
+        ],
+        "title": "类目热销榜"
+      },
+      "newItemList": [
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/5c76f094b949bc4e2805391b146611ab.jpg",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/3e5c45628c07c8c1a841010441472243.jpg",
+          "tagId": 0,
+          "simpleDesc": "单个独立包装，三层防护灭菌级口罩",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 3999839,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3999839,
+              "tagId": 128395111,
+              "freshmanExclusive": false,
+              "name": "特价",
+              "subType": 204,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "id": 3999839,
+          "sellVolume": 30267,
+          "isCouponConflict": true,
+          "colorNum": 2,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/7b3c9bd4c8487825c3eb76053245ad85.png",
+          "displaySkuId": 300282242,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "独立包装更安心，医用外科口罩",
+          "productPlace": "",
+          "counterPrice": 89.00,
+          "cutFlag": false,
+          "retailPrice": 49,
+          "primary": false,
+          "status": 2
+        },
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/ed920bb763d018514de1a990926f33c8.png",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/3cfea8fd6a4e8815627aed59da053ece.png",
+          "tagId": 0,
+          "simpleDesc": "走在复古潮流的前端",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "年货狂欢价",
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 3997967,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3997967,
+              "tagId": 128395042,
+              "freshmanExclusive": false,
+              "name": "年货狂欢价",
+              "subType": 204,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "id": 3997967,
+          "sellVolume": 1362,
+          "isCouponConflict": true,
+          "colorNum": 4,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/2b457ef447e8bdb1d0cb04727b29edba.png",
+          "displaySkuId": 300263813,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "男式舒适保暖摇粒绒立领夹克",
+          "productPlace": "",
+          "counterPrice": 99.00,
+          "cutFlag": false,
+          "retailPrice": 72,
+          "primary": false,
+          "status": 2
+        },
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/aed801418f3b0e1cc25dd2390462e671.jpg",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/0e10dd0cbda5efea185d2670b262673d.png",
+          "tagId": 0,
+          "simpleDesc": "吉祥如意，耐磨耐脏，入门有垫，尘埃不见",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 4001141,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 4001141,
+              "tagId": 128395111,
+              "freshmanExclusive": false,
+              "name": "特价",
+              "subType": 204,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "id": 4001141,
+          "sellVolume": 890,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/102113b6487531674895bdb9e77dd3b0.png",
+          "displaySkuId": 300286534,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "新年吉祥如意，欢喜回家蹭土丝圈地垫",
+          "productPlace": "",
+          "counterPrice": 49.00,
+          "cutFlag": false,
+          "retailPrice": 45.9,
+          "primary": false,
+          "status": 2
+        },
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/68bbd8a896bad1dbabbf0c8fa14493dd.jpg",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/97386afe2e5910d3edb70a4f875c0503.png",
+          "tagId": 0,
+          "simpleDesc": "强大传感器处理能力，高精度，测得准",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 0,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 3998322,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "id": 3998322,
+          "sellVolume": 190,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/a73dba5f86351bf52b3f6896963b8379.png",
+          "displaySkuId": 300268097,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "不含水银更安心，医用电子体温计",
+          "productPlace": "",
+          "cutFlag": false,
+          "retailPrice": 19.90,
+          "primary": false,
+          "status": 2
+        },
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/c8084f999d3b40e1eb44505965dc42e9.jpg",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/aa21de6c53daac9c6425cec51a2f28ad.png",
+          "tagId": 0,
+          "simpleDesc": "橙红果肉，香甜可口",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 3988547,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3988547,
+              "tagId": 128385064,
+              "freshmanExclusive": false,
+              "name": "特价",
+              "subType": 204,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "id": 3988547,
+          "sellVolume": 1373,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/91caae4207bc921ebec242c56551c9c0.png",
+          "displaySkuId": 300198118,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "冰雪洗礼后更润甜，秭归中华红橙 5斤",
+          "productPlace": "",
+          "counterPrice": 49.00,
+          "cutFlag": false,
+          "retailPrice": 39,
+          "primary": false,
+          "status": 2
+        },
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/c3bc5712f7bc6159d775f86f7dfa12df.jpg",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/4e5792ea6bdb792327197e8234919ff4.png",
+          "tagId": 0,
+          "simpleDesc": "地道川渝味，一颗爆开味蕾",
+          "primarySkuPreSellPrice": 0,
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 3998002,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3998002,
+              "tagId": 128372260,
+              "freshmanExclusive": false,
+              "name": "特价",
+              "subType": 204,
+              "forbidJump": false,
+              "type": 2
+            },
+            {
+              "itemId": 3998002,
+              "tagId": 128395037,
+              "freshmanExclusive": false,
+              "name": "2件减10",
+              "subType": 107,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "id": 3998002,
+          "sellVolume": 5137,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/4e5792ea6bdb792327197e8234919ff4.png",
+          "displaySkuId": 300269504,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "佐酒解馋全家分享，川味火锅坚果 450克",
+          "productPlace": "",
+          "counterPrice": 79.00,
+          "cutFlag": false,
+          "retailPrice": 68,
+          "primary": false,
+          "status": 2
+        },
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/512fce5a4970de37667fabdee8f433e1.png",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/54a8a71dfd9c82990cae0a2be8a2d009.png",
+          "tagId": 0,
+          "simpleDesc": "1包/天，松软柔韧的口感堪比现烤",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "年货狂欢价",
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 3995551,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3995551,
+              "tagId": 128372179,
+              "freshmanExclusive": false,
+              "name": "年货狂欢价",
+              "subType": 204,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "listPromBanner": {
+            "valid": true,
+            "styleType": 0,
+            "bannerContentUrl": "https://yanxuan.nosdn.127.net/73de0050620397b41099c356292b28c8.png",
+            "promoTitle": "年货狂欢价",
+            "promoSubTitle": "¥32.8",
+            "timeType": 0,
+            "bannerTitleUrl": "https://yanxuan.nosdn.127.net/ce3597696f4c886d1d81a7d94f8cfe6e.png",
+            "content": "仅剩2天"
+          },
+          "id": 3995551,
+          "sellVolume": 4225,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/54a8a71dfd9c82990cae0a2be8a2d009.png",
+          "displaySkuId": 300259974,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "边边都好吃的25%全麦吐司 952克（14包装）",
+          "productPlace": "",
+          "counterPrice": 39.00,
+          "cutFlag": false,
+          "retailPrice": 32.8,
+          "primary": false,
+          "status": 2
+        },
+        {
+          "goodCmtCount": 0,
+          "couponConflict": true,
+          "scenePicUrl": "https://yanxuan-item.nosdn.127.net/bb8835f2ac7ba42fbdec232bad4efbc9.jpg",
+          "listPicUrl": "https://yanxuan-item.nosdn.127.net/815f512c2608847379bced0755aaad68.png",
+          "tagId": 0,
+          "simpleDesc": "让衣物柔顺的“精华乳”，给衣服覆上隐形防护膜",
+          "primarySkuPreSellPrice": 0,
+          "promTag": "年货狂欢价",
+          "limitedFlag": 204,
+          "newItemFlag": true,
+          "itemTagList": [
+            {
+              "itemId": 3989064,
+              "tagId": 0,
+              "freshmanExclusive": false,
+              "name": "新品",
+              "subType": 0,
+              "forbidJump": false,
+              "type": 1
+            },
+            {
+              "itemId": 3989064,
+              "tagId": 128395209,
+              "freshmanExclusive": false,
+              "name": "年货狂欢价",
+              "subType": 204,
+              "forbidJump": false,
+              "type": 2
+            }
+          ],
+          "primarySkuPreSellStatus": 0,
+          "pieceNum": 0,
+          "extra": {
+            "modelType": 3
+          },
+          "id": 3989064,
+          "sellVolume": 9047,
+          "isCouponConflict": true,
+          "colorNum": 0,
+          "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/56a769c60470a87268120f645c90bb9f.png",
+          "displaySkuId": 300242285,
+          "pieceUnitDesc": "件",
+          "resourcesId": 0,
+          "discountFlag": false,
+          "name": "3倍高浓缩 48h留香衣物柔顺剂520g",
+          "productPlace": "",
+          "counterPrice": 29.90,
+          "cutFlag": false,
+          "retailPrice": 24.9,
+          "primary": false,
+          "status": 2
+        }
+      ],
+      "freshmanFlag": true,
+      "focusList": [
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/306fd87e77de48237f8be1f84e5a9a29.jpg",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "2021年货节主会场_0202-0203",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "",
+            "resourcesId": 1,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661439",
+            "taskId": "54674516"
+          },
+          "name": "2021年货节主会场_0202-0203",
+          "onlineTime": 0,
+          "id": 54661439,
+          "originSchemeUrl": "https://act.you.163.com/act/pub/wrG9ZjEeBlrj.html",
+          "targetUrl": "https://act.you.163.com/act/pub/wrG9ZjEeBlrj.html"
+        },
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/fde807f2d8705127657b0e7201726e6f.jpg",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "直播-情人节好礼助攻_0202-0203",
+            "rcmdSort": false,
+            "taskType": 1,
+            "itemFrom": 0,
+            "crmUserGroupName": "无分组",
+            "resourcesId": 2,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661357",
+            "taskId": "54674603"
+          },
+          "name": "直播-情人节好礼助攻_0202-0203",
+          "onlineTime": 0,
+          "id": 54661357,
+          "originSchemeUrl": "yanxuan://liveroom?roomId=110",
+          "targetUrl": "yanxuan://liveroom?roomId=110"
+        },
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/8d427a2c632b3734ef607510e4b11162.jpg",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 2,
+            "materialName": "奥莱特卖合图_0130-0228",
+            "rcmdSort": false,
+            "taskType": 2,
+            "itemFrom": 0,
+            "crmUserGroupName": "无分组",
+            "resourcesId": 3,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661387",
+            "taskId": "54655077"
+          },
+          "name": "奥莱特卖合图_0130-0228",
+          "onlineTime": 0,
+          "id": 54661387,
+          "originSchemeUrl": "https://act.you.163.com/act/pub/EKRvjFTneSHU.html",
+          "targetUrl": "https://act.you.163.com/act/pub/EKRvjFTneSHU.html?_iid=1401005"
+        },
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/c9cc00dc96da00792c8ad7f2e8caf7bb.jpg",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "食品-年货节分会场2-0202-0204",
+            "rcmdSort": false,
+            "taskType": 2,
+            "itemFrom": 0,
+            "crmUserGroupName": "无分组",
+            "resourcesId": 4,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661286",
+            "taskId": "54655077"
+          },
+          "name": "食品-年货节分会场2-0202-0204",
+          "onlineTime": 0,
+          "id": 54661286,
+          "originSchemeUrl": "https://act.you.163.com/act/pub/wpltasnJDWtM.html",
+          "targetUrl": "https://act.you.163.com/act/pub/wpltasnJDWtM.html"
+        },
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/edb68dbdca0b09ad1b8ee506a313499d.png",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "海外年货节分会场V4_0201-0204",
+            "rcmdSort": false,
+            "taskType": 2,
+            "itemFrom": 0,
+            "crmUserGroupName": "无分组",
+            "resourcesId": 5,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661459",
+            "taskId": "54655077"
+          },
+          "name": "海外年货节分会场V4_0201-0204",
+          "onlineTime": 0,
+          "id": 54661459,
+          "originSchemeUrl": "https://act.you.163.com/act/pub/2tOyow6fVejO.html",
+          "targetUrl": "https://act.you.163.com/act/pub/2tOyow6fVejO.html"
+        },
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/5d7ca0e230705bb9d7030655967d676f.jpg",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "大居家-年货节预热_0202-0204",
+            "rcmdSort": false,
+            "taskType": 2,
+            "itemFrom": 0,
+            "crmUserGroupName": "无分组",
+            "resourcesId": 6,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661366",
+            "taskId": "54655077"
+          },
+          "name": "大居家-年货节预热_0202-0204",
+          "onlineTime": 0,
+          "id": 54661366,
+          "originSchemeUrl": "https://act.you.163.com/act/pub/VQOaAJtEE2kM.html",
+          "targetUrl": "https://act.you.163.com/act/pub/VQOaAJtEE2kM.html"
+        },
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/2dd0b1d34ea8dd7126d4c1d2334136fc.jpg",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 2,
+            "materialName": "【新】专场限时购合图_0202-0204",
+            "rcmdSort": false,
+            "taskType": 2,
+            "itemFrom": 0,
+            "crmUserGroupName": "无分组",
+            "resourcesId": 7,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661474",
+            "taskId": "54655077"
+          },
+          "name": "【新】专场限时购合图_0202-0204",
+          "onlineTime": 0,
+          "id": 54661474,
+          "originSchemeUrl": "https://act.you.163.com/act/pub/x3o4kGIbPc08.html",
+          "targetUrl": "https://act.you.163.com/act/pub/x3o4kGIbPc08.html?_iid=1006029"
+        },
+        {
+          "picUrl": "https://yanxuan.nosdn.127.net/45aa1dac5d3f6286f965e9d676b4b072.jpg",
+          "expireTime": 0,
+          "extra": {
+            "materialContentFrom": 1,
+            "materialName": "智造年货节爆发期_0202-0204",
+            "rcmdSort": false,
+            "taskType": 2,
+            "itemFrom": 0,
+            "crmUserGroupName": "无分组",
+            "resourcesId": 8,
+            "materialType": "广告banner",
+            "crmUserGroupId": "0",
+            "materialId": "54661423",
+            "taskId": "54655077"
+          },
+          "name": "智造年货节爆发期_0202-0204",
+          "onlineTime": 0,
+          "id": 54661423,
+          "originSchemeUrl": "https://act.you.163.com/act/pub/mhoQBgUTWzhl.html",
+          "targetUrl": "https://act.you.163.com/act/pub/mhoQBgUTWzhl.html"
+        }
+      ],
+      "sceneLightShoppingGuideModule": [
+        {
+          "styleItem": {
+            "descColor": "7f7f7f",
+            "itemFrom": 1,
+            "picUrlList": [
+              "https://yanxuan-item.nosdn.127.net/b2065eab67acc5923a8ec71167a35f6a.png",
+              "https://yanxuan-item.nosdn.127.net/569ab2c87df93c56de39b8c890463242.png"
+            ],
+            "titleColor": "333333",
+            "extra": {
+              "materialContentFrom": 1,
+              "materialName": "超值专区-1221",
+              "rcmdSort": false,
+              "taskType": 1,
+              "itemFrom": 0,
+              "crmUserGroupName": "",
+              "resourcesId": 1,
+              "materialType": "场景轻导购",
+              "crmUserGroupId": "0",
+              "materialId": "54659408",
+              "taskId": "54672889"
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 1037001,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/b2065eab67acc5923a8ec71167a35f6a.png"
+              },
+              {
+                "itemId": 1062033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/569ab2c87df93c56de39b8c890463242.png"
+              },
+              {
+                "itemId": 1076003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/96082fd967b8c7990b399cf11d475759.png"
+              },
+              {
+                "itemId": 1096001,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/acba74a016940d8c277686bba646d19a.png"
+              },
+              {
+                "itemId": 1111002,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/e52eb92a519a268c4b6c54c4ad2bb95d.png"
+              },
+              {
+                "itemId": 1135079,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/637b338e46dc1a15ed2c9e560f239fd5.png"
+              },
+              {
+                "itemId": 1142037,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/ce36ebf9ba7b16bd4fce74b44709a7cb.png"
+              },
+              {
+                "itemId": 1156169,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/9e51cc1e563aefe7247c5aac7ec5c811.png"
+              },
+              {
+                "itemId": 1283015,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/467d1114d8bfb3208eda60c47619838a.png"
+              },
+              {
+                "itemId": 1306019,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/74eb39b9cd945dd0a336a3ce0f196fbc.png"
+              },
+              {
+                "itemId": 1356013,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/a57c294dbf1ef6c476703ae5a57b6b4b.png"
+              },
+              {
+                "itemId": 1369012,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/516f9a53f493673fa6da347cd2bf93a7.png"
+              },
+              {
+                "itemId": 1435017,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/bc0df62fde0d585cb6d001299152328c.png"
+              },
+              {
+                "itemId": 1486015,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/5c35f263794c4d01813ce46f1357c2f8.png"
+              },
+              {
+                "itemId": 1486016,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/f3086166f12eff991b41c905ecf41cec.png"
+              },
+              {
+                "itemId": 1506032,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/4808526f99e3e912a645dd2e4c5a20d0.png"
+              },
+              {
+                "itemId": 1512033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1dcae085a33838163c69ced60e48a9e8.png"
+              },
+              {
+                "itemId": 1531003,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/5cfb842c6d2d04df1da941a7426a4d17.png"
+              },
+              {
+                "itemId": 1540016,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/eb6bdbea58bbfdffc390ae345b189429.png"
+              },
+              {
+                "itemId": 1579024,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/fc6cc915cd1908496330bc6565e02a95.png"
+              },
+              {
+                "itemId": 1598005,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/0794fc798e92353c8d26fe2c590eeb8a.png"
+              },
+              {
+                "itemId": 1666010,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7b5d117f18a8e2a477b29bd3c74b089f.png"
+              },
+              {
+                "itemId": 1673009,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/6b396a24be431d003b00316495b98a52.png"
+              },
+              {
+                "itemId": 3402020,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2c0147161faaa160cf10b6770f1e290d.png"
+              },
+              {
+                "itemId": 3436033,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/1f0c3f5d32b0e804deb9b3d56ea6c3b2.png"
+              },
+              {
+                "itemId": 3439006,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/073f16bf0c7ad8634c3abb7636e063c2.png"
+              },
+              {
+                "itemId": 3826007,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/7487173f00c801dfe62cb6a8d6e36abd.png"
+              },
+              {
+                "itemId": 3826008,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/558afd013979fff4a5dd381cac494261.png"
+              },
+              {
+                "itemId": 3829099,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/8895bdb6828169458bed532a51e5aeec.png"
+              },
+              {
+                "itemId": 3986874,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/69b95265e7271de99a2c28c9bad2ec3a.png"
+              }
+            ],
+            "originSchemeUrl": "http://you.163.com/topic/v1/pub/Pew1KBH9Au.html",
+            "title": "超值专区",
+            "targetUrl": "http://you.163.com/topic/v1/pub/Pew1KBH9Au.html",
+            "desc": "低至9.9元"
+          }
+        },
+        {
+          "styleItem": {
+            "descColor": "7f7f7f",
+            "itemFrom": 2,
+            "picUrlList": [
+              "https://yanxuan-item.nosdn.127.net/2cbb22ce765289a523be4f201d04eead.png",
+              "https://yanxuan-item.nosdn.127.net/488a81259dec9371232b37d133e1bbb8.png"
+            ],
+            "titleColor": "333333",
+            "extra": {
+              "materialContentFrom": 1,
+              "materialName": "员工精选2.2",
+              "rcmdSort": false,
+              "taskType": 1,
+              "itemFrom": 0,
+              "crmUserGroupName": "无分组",
+              "resourcesId": 2,
+              "materialType": "场景轻导购",
+              "crmUserGroupId": "0",
+              "materialId": "54661239",
+              "taskId": "54674288"
+            },
+            "itemPicBeanList": [
+              {
+                "itemId": 3994675,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/2cbb22ce765289a523be4f201d04eead.png"
+              },
+              {
+                "itemId": 3383008,
+                "picUrl": "https://yanxuan-item.nosdn.127.net/488a81259dec9371232b37d133e1bbb8.png"
+              }
+            ],
+            "originSchemeUrl": "https://m.you.163.com/topic/v1/pub/MZee3MWrbs.html",
+            "title": "员工精选",
+            "targetUrl": "https://m.you.163.com/topic/v1/pub/MZee3MWrbs.html",
+            "desc": "抢爆款年货"
+          }
+        }
+      ],
+      "kingKongModule": {
+        "norColor": "ff000000",
+        "background": "https://yanxuan.nosdn.127.net/fe0bd37a552434cc0d27c1889ff3e1fe.png",
+        "kingKongList": [
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/c6fd8835a6400b7da7a016ad85506b69.png",
+            "schemeUrl": "https://m.you.163.com/item/newItem",
+            "text": "新品首发",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/fede8b110c502ec5799702d5ec824792.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=1005000&style=pd",
+            "text": "居家生活",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/896a3beac514ae8f40aafe028e5fec56.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=1010000&style=pd",
+            "text": "服饰鞋包",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/37520d1204a0c55474021b43dac2a69e.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=1005002&style=pd",
+            "text": "美食酒水",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/6c3bd9d885c818b1f73e497335a68b47.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=1013001&style=pd",
+            "text": "个护清洁",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/559d2a240ec20b096590a902217009ff.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=1011000&style=pd",
+            "text": "母婴亲子",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/5c088559ebcc3f0ffcda663f04dfbeb2.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=109243029&style=pd",
+            "text": "运动旅行",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/fbca8e1f2948f0c09fc7672c2c125384.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=1043000&style=pd",
+            "text": "数码家电",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/f7281169d4e82d5d8d52aa1fec83fe01.png",
+            "schemeUrl": "https://m.you.163.com/item/list?categoryId=1019000&style=pd",
+            "text": "全球特色",
+            "textColor": "333333"
+          },
+          {
+            "picUrl": "https://yanxuan.nosdn.127.net/12e8efd15b9b210ab156a7ee9b340548.gif",
+            "schemeUrl": "https://act.you.163.com/act/pub/OuB7EL0tpQ3Z.html",
+            "text": "好货抄底",
+            "textColor": "333333"
+          }
+        ],
+        "selectedColor": "ffffffff"
+      },
+      "indexActivityModule": [
+        {
+          "backgroundUrl": "",
+          "picUrl": "https://yanxuan-item.nosdn.127.net/9663e599f23444d32ae46ca0b44f2f2e.png",
+          "activityPrice": "¥10.9",
+          "subTitle": "今日特价",
+          "originPrice": "¥12.9",
+          "tag": "",
+          "title": "福利社",
+          "targetUrl": "https://m.you.163.com/saleCenter/index",
+          "showPicUrl": "https://yanxuan-item.nosdn.127.net/9663e599f23444d32ae46ca0b44f2f2e.png"
+        },
+        {
+          "picUrl": "https://yanxuan-item.nosdn.127.net/19094369920eb1d4d767404f57411d4c.png",
+          "activityPrice": "¥32.8",
+          "subTitle": "",
+          "originPrice": "¥49",
+          "tag": "1元起包邮",
+          "title": "新人拼团",
+          "targetUrl": "https://m.you.163.com/pin/item/list",
+          "showPicUrl": "https://yanxuan-item.nosdn.127.net/da3fc5fd0165a958f355468a91245a71.png"
+        }
+      ]
+    },
+    "noticeList": [
+      {
+        "type": 2,
+        "content": "关于防止近期不法分子冒充客服实施诈骗的公告",
+        "targetUrl": "https://m.you.163.com/notice/detail?id=103728001"
+      }
+    ]
+  },
+  "code": "200"
+}
